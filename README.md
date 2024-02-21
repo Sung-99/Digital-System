@@ -32,7 +32,7 @@
 
 ## Desafios
 
-*Nessa construção o fóco é mostrar algumas tarefas simples no logislim*
+*Nessa construção o fóco é mostrar algumas tarefas simples no logislim com alguns exercicios sobre sistemas digitais*
 
 ####  Linguagens usadas e/ou Softwares
 -Logislim
